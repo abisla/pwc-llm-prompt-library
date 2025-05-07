@@ -1,0 +1,10 @@
+{
+  "prompt_id": "audit_risk_triage_2024_01",
+  "prompt_text": "You are an audit risk assistant. Based on the client's industry, revenue size, and internal control quality, categorize audit risk as High, Medium, or Low. Explain why in 2–3 sentences.",
+  "created_by": "amar.bisla",
+  "use_case": "audit_risk_assessment",
+  "version": 1,
+  "model": "gpt-4",
+  "expected_output_format": "risk_category + justification",
+  "last_updated": "2024-05-09T17:45:00Z"
+}
